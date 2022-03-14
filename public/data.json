@@ -1,0 +1,46 @@
+    
+       
+    [
+        {
+        "id": "101",
+        "recipes_name": "Classic french toast",
+        "image": "https://tastesbetterfromscratch.com/wp-content/uploads/2018/04/French-Toast-4-500x500.jpg",
+        "rating": 3.5,
+        "ingredients":"6 sliced Texas toast or thick cut bread, 2 large eggs,1/4 cup milk or cream, 1 tsp sugar, 1/4 tsp cinnamon,pinch of salt,splash of vanilla extract,butter and vegetable oil for cooking",
+        "video": "https://www.youtube.com/embed/r1ZLSbQ0r0I"
+    },
+    {
+        "id": "102",
+        "image": "https://mealswithmaggie.com/wp-content/uploads/2018/06/lentilquinoa3keep.jpg",
+        "recipes_name": "Quinoa Tabouli Salad",
+        "rating": 3,
+        "ingredients":"2 cups cooked quinoa, ½ cup chopped scallions,¼ cup fresh chopped mint, ½ cup fresh chopped parsley, 1 cup Persian cucumbers, chopped, 1 cup garbanzo beans, 2 cloves of minced garlic, ¼ cup fresh squeezed lemon juice,3 tablespoons extra virgin olive oil,1 large tomato, diced, 2 oz crumbled feta cheese,Salt and pepper to taste",
+        "video": "https://www.youtube.com/embed/MczR0SRYFGc"
+    },
+    {
+        "id": "103",
+        "video": "https://www.youtube.com/embed/alCpQmc8r5U",
+        "image": "https://static.toiimg.com/thumb/54680309.cms?imgsize=171881&width=800&height=800",
+        "recipes_name": "Masala Egg Omelette",
+        "rating": 3.2,
+        "ingredients": "White Onion, Tomato, Fresh Green Coriander, Hot Green Chillies, Garam Masala, Ground Black Pepper, Red Chilly Powder, Rapeseed Oil, Egg.Salt"
+       
+    },
+    {
+        "id": "104",
+        "image": "https://bakewithshivesh.com/wp-content/uploads/2021/02/IMG_2631-1638x2048.jpg",
+        "recipes_name": "Eggless Pancake ",
+        "rating": 3.5,
+        "ingredients":"1 & 1/2 Cup all purpose flour (maida), 1 Tbsp baking powder, 1/4 Tsp baking soda, 1/4 Cup powdered sugar, A pinch of salt, 1 & 1/4 Cup Warm milk (add a little more if needed), 2 Tbsp butter, Some watermelon to serve with the pancakes, Some honey or maple syrup",
+        "video": "https://www.youtube.com/embed/NXBIW3VUy_o"
+    },
+    {
+        "id": "105",
+        "image": "https://cdn3.tmbi.com/toh/GoogleImagesPostCard/Chili-Beef-Pasta_exps158841_SD132779A06_11_4bC_RMS.jpg",
+        "recipes_name": "Spicy pasta",
+        "rating": 4,
+        "ingredients":"220 g (8 ounces) conchiglie, or any other shell-shaped pasta, 2 tbsp olive oil, pinch of salt, 1/2 medium onion 450 g (1 pound) extra lean ground beef, 2 cloves garlic, 450 g (2 cups) tomato sauce, 1 tbsp tomato paste, 1/2 tsp Dijon mustard, 1/4 tsp Italian seasoning, 120 ml (1/2 cup) heavy / whipping cream , Basil (optional), Salt & pepper to taste, Parmigiano-Reggiano (optional) , Dijon mustard (optional but recommended for building layers of flavor)",
+        "video": "https://www.youtube.com/embed/zQ2v_P0AEjI"
+    }
+    ]
+   
